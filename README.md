@@ -8,7 +8,7 @@ The recommendations contained are the result of research into the specific needs
 
 # What about the process of working through a design document did you find helpful when developing the code?
 
-Creating a design document frames the development to be performed and sets useful parameters and constraints for the next phase of the project. Further, it allows the project architect space in order to think through the design from the highest level before committing to a development path. This document therefore lays the groundwork for smooth and efficient development.
+Creating a design document frames the development to be performed and sets useful parameters and constraints for the next phase of the project. Further, it allows the project architect a space to think through the design from the highest level before committing to a development path. This document therefore lays the groundwork for smooth and efficient development.
 
 # If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
